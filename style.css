@@ -117,3 +117,11 @@ a {
 .agreement {
     display: flex;
 }
+
+
+
+@media screen and (min-width: 460px) {
+    .wrapper {
+        height: 100vh;
+    }
+}
